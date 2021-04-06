@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Promedio de notas de 5 alumnos/1.0.0": {
+        "runtime": {
+          "Promedio de notas de 5 alumnos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Promedio de notas de 5 alumnos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

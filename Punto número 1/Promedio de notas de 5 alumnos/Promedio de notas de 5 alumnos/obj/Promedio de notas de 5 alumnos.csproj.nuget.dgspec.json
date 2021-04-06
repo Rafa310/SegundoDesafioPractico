@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\programacion\\Segundo Desafío Práctico\\Punto número 1\\Promedio de notas de 5 alumnos\\Promedio de notas de 5 alumnos\\Promedio de notas de 5 alumnos.csproj": {}
+  },
+  "projects": {
+    "F:\\programacion\\Segundo Desafío Práctico\\Punto número 1\\Promedio de notas de 5 alumnos\\Promedio de notas de 5 alumnos\\Promedio de notas de 5 alumnos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\programacion\\Segundo Desafío Práctico\\Punto número 1\\Promedio de notas de 5 alumnos\\Promedio de notas de 5 alumnos\\Promedio de notas de 5 alumnos.csproj",
+        "projectName": "Promedio de notas de 5 alumnos",
+        "projectPath": "F:\\programacion\\Segundo Desafío Práctico\\Punto número 1\\Promedio de notas de 5 alumnos\\Promedio de notas de 5 alumnos\\Promedio de notas de 5 alumnos.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "F:\\programacion\\Segundo Desafío Práctico\\Punto número 1\\Promedio de notas de 5 alumnos\\Promedio de notas de 5 alumnos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

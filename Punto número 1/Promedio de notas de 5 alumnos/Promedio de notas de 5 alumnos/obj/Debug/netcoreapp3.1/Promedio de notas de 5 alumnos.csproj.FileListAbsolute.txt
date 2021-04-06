@@ -1,0 +1,13 @@
+F:\programacion\Segundo Desafío Práctico\Punto número 1\Promedio de notas de 5 alumnos\Promedio de notas de 5 alumnos\bin\Debug\netcoreapp3.1\Promedio de notas de 5 alumnos.exe
+F:\programacion\Segundo Desafío Práctico\Punto número 1\Promedio de notas de 5 alumnos\Promedio de notas de 5 alumnos\bin\Debug\netcoreapp3.1\Promedio de notas de 5 alumnos.deps.json
+F:\programacion\Segundo Desafío Práctico\Punto número 1\Promedio de notas de 5 alumnos\Promedio de notas de 5 alumnos\bin\Debug\netcoreapp3.1\Promedio de notas de 5 alumnos.runtimeconfig.json
+F:\programacion\Segundo Desafío Práctico\Punto número 1\Promedio de notas de 5 alumnos\Promedio de notas de 5 alumnos\bin\Debug\netcoreapp3.1\Promedio de notas de 5 alumnos.runtimeconfig.dev.json
+F:\programacion\Segundo Desafío Práctico\Punto número 1\Promedio de notas de 5 alumnos\Promedio de notas de 5 alumnos\bin\Debug\netcoreapp3.1\Promedio de notas de 5 alumnos.dll
+F:\programacion\Segundo Desafío Práctico\Punto número 1\Promedio de notas de 5 alumnos\Promedio de notas de 5 alumnos\bin\Debug\netcoreapp3.1\Promedio de notas de 5 alumnos.pdb
+F:\programacion\Segundo Desafío Práctico\Punto número 1\Promedio de notas de 5 alumnos\Promedio de notas de 5 alumnos\obj\Debug\netcoreapp3.1\Promedio de notas de 5 alumnos.csprojAssemblyReference.cache
+F:\programacion\Segundo Desafío Práctico\Punto número 1\Promedio de notas de 5 alumnos\Promedio de notas de 5 alumnos\obj\Debug\netcoreapp3.1\Promedio de notas de 5 alumnos.AssemblyInfoInputs.cache
+F:\programacion\Segundo Desafío Práctico\Punto número 1\Promedio de notas de 5 alumnos\Promedio de notas de 5 alumnos\obj\Debug\netcoreapp3.1\Promedio de notas de 5 alumnos.AssemblyInfo.cs
+F:\programacion\Segundo Desafío Práctico\Punto número 1\Promedio de notas de 5 alumnos\Promedio de notas de 5 alumnos\obj\Debug\netcoreapp3.1\Promedio de notas de 5 alumnos.csproj.CoreCompileInputs.cache
+F:\programacion\Segundo Desafío Práctico\Punto número 1\Promedio de notas de 5 alumnos\Promedio de notas de 5 alumnos\obj\Debug\netcoreapp3.1\Promedio de notas de 5 alumnos.dll
+F:\programacion\Segundo Desafío Práctico\Punto número 1\Promedio de notas de 5 alumnos\Promedio de notas de 5 alumnos\obj\Debug\netcoreapp3.1\Promedio de notas de 5 alumnos.pdb
+F:\programacion\Segundo Desafío Práctico\Punto número 1\Promedio de notas de 5 alumnos\Promedio de notas de 5 alumnos\obj\Debug\netcoreapp3.1\Promedio de notas de 5 alumnos.genruntimeconfig.cache

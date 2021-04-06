@@ -1,0 +1,13 @@
+F:\programacion\Segundo Desafío Práctico\Punto número 3\Ejercicio 3 Sucursales\Ejercicio 3 Sucursales\bin\Debug\netcoreapp3.1\Ejercicio 3 Sucursales.exe
+F:\programacion\Segundo Desafío Práctico\Punto número 3\Ejercicio 3 Sucursales\Ejercicio 3 Sucursales\bin\Debug\netcoreapp3.1\Ejercicio 3 Sucursales.deps.json
+F:\programacion\Segundo Desafío Práctico\Punto número 3\Ejercicio 3 Sucursales\Ejercicio 3 Sucursales\bin\Debug\netcoreapp3.1\Ejercicio 3 Sucursales.runtimeconfig.json
+F:\programacion\Segundo Desafío Práctico\Punto número 3\Ejercicio 3 Sucursales\Ejercicio 3 Sucursales\bin\Debug\netcoreapp3.1\Ejercicio 3 Sucursales.runtimeconfig.dev.json
+F:\programacion\Segundo Desafío Práctico\Punto número 3\Ejercicio 3 Sucursales\Ejercicio 3 Sucursales\bin\Debug\netcoreapp3.1\Ejercicio 3 Sucursales.dll
+F:\programacion\Segundo Desafío Práctico\Punto número 3\Ejercicio 3 Sucursales\Ejercicio 3 Sucursales\bin\Debug\netcoreapp3.1\Ejercicio 3 Sucursales.pdb
+F:\programacion\Segundo Desafío Práctico\Punto número 3\Ejercicio 3 Sucursales\Ejercicio 3 Sucursales\obj\Debug\netcoreapp3.1\Ejercicio 3 Sucursales.csprojAssemblyReference.cache
+F:\programacion\Segundo Desafío Práctico\Punto número 3\Ejercicio 3 Sucursales\Ejercicio 3 Sucursales\obj\Debug\netcoreapp3.1\Ejercicio 3 Sucursales.AssemblyInfoInputs.cache
+F:\programacion\Segundo Desafío Práctico\Punto número 3\Ejercicio 3 Sucursales\Ejercicio 3 Sucursales\obj\Debug\netcoreapp3.1\Ejercicio 3 Sucursales.AssemblyInfo.cs
+F:\programacion\Segundo Desafío Práctico\Punto número 3\Ejercicio 3 Sucursales\Ejercicio 3 Sucursales\obj\Debug\netcoreapp3.1\Ejercicio 3 Sucursales.csproj.CoreCompileInputs.cache
+F:\programacion\Segundo Desafío Práctico\Punto número 3\Ejercicio 3 Sucursales\Ejercicio 3 Sucursales\obj\Debug\netcoreapp3.1\Ejercicio 3 Sucursales.dll
+F:\programacion\Segundo Desafío Práctico\Punto número 3\Ejercicio 3 Sucursales\Ejercicio 3 Sucursales\obj\Debug\netcoreapp3.1\Ejercicio 3 Sucursales.pdb
+F:\programacion\Segundo Desafío Práctico\Punto número 3\Ejercicio 3 Sucursales\Ejercicio 3 Sucursales\obj\Debug\netcoreapp3.1\Ejercicio 3 Sucursales.genruntimeconfig.cache
